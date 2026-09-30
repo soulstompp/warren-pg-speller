@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 authors = ["Kenneth Allen Flegal"]
 description = "A PostgreSQL planner hook that respells a SELECT through three identities of relational algebra before it is planned"
+repository = "https://github.com/soulstompp/warren-pg-speller"
 readme = "README.md"
 keywords = ["postgresql", "planner", "pgrx", "sql"]
 categories = ["database"]
